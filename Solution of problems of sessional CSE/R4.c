@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include<math.h>
+#include<string.h>
+#include<ctype.h>
+#include<windows.h>
+int main()
+
